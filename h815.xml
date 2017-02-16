@@ -3,6 +3,10 @@
     <Stable>
         <h815>
             <Filename>RR-N-v5.8.1-20170215-h815.zip</Filename>
+            <BuildUrl
+            	id="build"
+            	title="LatestBuild"
+            	description="Download Latest Build">http://eu.host.erwanleboucher.fr:8080/genesixx/ResurrectionRemix/h815/RR-N-v5.8.1-20170215-h815.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Downloads"
